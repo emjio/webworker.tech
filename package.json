@@ -1,0 +1,23 @@
+{
+  "name": "vitepress-docs-site-template",
+  "version": "1.0.0",
+  "description": "快速利用 vitepress 创建一个网站并托管到 github pages 上",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [
+    "vitepress template",
+    "docs website",
+    "website",
+    "github pages"
+  ],
+  "author": "Otto",
+  "license": "MIT",
+  "homepage": "https://github.com/Otto-J/vitepress-docs-site-template#readme",
+  "devDependencies": {
+    "vitepress": "^0.20.0"
+  }
+}
