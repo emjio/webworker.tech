@@ -1,9 +1,9 @@
 ---
 home: true
-heroText: h1 text
-tagline: h2 text
-actionText: reading
-actionLink: /start/
+heroText: Web Worker
+tagline: worker of the Web
+actionText: 敬请期待
+actionLink: /
 
 footer: MIT Licensed | Copyright © 2021
 ---
