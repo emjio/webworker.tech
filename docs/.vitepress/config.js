@@ -8,7 +8,7 @@ module.exports = {
   base: `/${repoName}`, // 请根据 readme 修改该参数
   lang: 'zh-CN',
   themeConfig: {
-    repo: `Otto-J/${repoName}`, // 请修改此处指向
+    repo: `WebWorkerFM/fm`, // 请修改此处指向
     docsDir: 'docs',
 
     sidebar: {
